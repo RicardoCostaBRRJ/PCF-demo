@@ -1,7 +1,7 @@
 ---
 applications:
-- name: yourname
+- name:
   memory: 512M 
   instances: 1
-  host: pcfdemo-yourname
+  host:
   path: ./target/pcfdemo.war
